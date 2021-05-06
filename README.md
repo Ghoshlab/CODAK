@@ -44,6 +44,12 @@ Description of the individual code files:
 
 
 
+Contributors
+============
+
+-   [Pratyaydipta Rudra](https://github.com/pratyayr)
+-   [Debashis Ghosh](https://github.com/ghoshd)
+
 
 
 
