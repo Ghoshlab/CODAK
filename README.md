@@ -1,5 +1,6 @@
 # CODAK
 
+The instructions on how to apply the method for any cell type abundance data set are provided in the comments with the functions (CODAK_functions.R). 
 
 
 
@@ -7,8 +8,8 @@
 
 ######## Instructions on how to reproduce the results ########
 
-### Author: Pratyaydipta Rudra
-### Date: 5/5/2021
+#### Author: Pratyaydipta Rudra
+#### Date: 5/5/2021
 
 
 1. While running any of the following codes, the working directory should be set to the folder containing this ReadMe file. 
